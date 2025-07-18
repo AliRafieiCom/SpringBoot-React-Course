@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 
-group = 'com.example'
+group = 'ir.testtime'
 version = '1.0'
 
 repositories {
